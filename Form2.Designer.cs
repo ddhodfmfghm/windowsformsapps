@@ -106,25 +106,27 @@
             this.запросToolStripMenuItem.Name = "запросToolStripMenuItem";
             this.запросToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.запросToolStripMenuItem.Text = "Запрос1";
-         
             // 
             // запрос2ToolStripMenuItem
             // 
             this.запрос2ToolStripMenuItem.Name = "запрос2ToolStripMenuItem";
             this.запрос2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.запрос2ToolStripMenuItem.Text = "Запрос2";
+
             // 
             // запрос3ToolStripMenuItem
             // 
             this.запрос3ToolStripMenuItem.Name = "запрос3ToolStripMenuItem";
             this.запрос3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.запрос3ToolStripMenuItem.Text = "Запрос3";
+
             // 
             // запрос4ToolStripMenuItem
             // 
             this.запрос4ToolStripMenuItem.Name = "запрос4ToolStripMenuItem";
             this.запрос4ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.запрос4ToolStripMenuItem.Text = "Запрос4";
+
             // 
             // выходToolStripMenuItem
             // 

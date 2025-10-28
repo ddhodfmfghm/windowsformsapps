@@ -24,7 +24,7 @@ namespace WindowsFormsApp5
             // Заполняем комбобокс ролями
             cmbRole.Items.Add("Пользователь");
             cmbRole.Items.Add("Администратор");
-            cmbRole.SelectedIndex = 1; // По умолчанию "Пользователь"
+            cmbRole.SelectedIndex = 0; // По умолчанию "Пользователь"
         }
 
         private void ShowMessage(string message, Color color)
